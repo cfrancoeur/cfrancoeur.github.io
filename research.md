@@ -11,7 +11,7 @@ Gotting, K., May, D.S., Sosa-Calvo, J., Khadempour, L., **Francoeur, C.B.**, Ber
 
 Weng, Y-M., **Francoeur, C.B.**, Currie, C.R., Kavanaugh, D., & Schoville, S. (2021). A high-quality carabid genome assembly provides insights into beetle genome evolution and cold adaptation. Molecular Ecology Resources. [[DOI: 10.1111/1755-0998.13409]](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13409)    
 
-**Francoeur C.B.**, Khadempour L, Moreira-Soto RD, Gotting K, Book AJ, Pinto-Tomás AA, Keefover-Ring K, Currie CR. 2020. Bacteria contribute to plant secondary compound degradation in a generalist herbivore system. mBio 11:e02146-20. [https://doi.org/10.1128/mBio.02146-20](https://doi.org/10.1128/mBio.02146-20).  
+**Francoeur C.B.**, Khadempour L, Moreira-Soto R.D., Gotting K, Book A.J., Pinto-Tomás A.A., Keefover-Ring K, Currie C.R. 2020. Bacteria contribute to plant secondary compound degradation in a generalist herbivore system. mBio 11:e02146-20. [https://doi.org/10.1128/mBio.02146-20](https://doi.org/10.1128/mBio.02146-20).  
 
 Liu, N. T., Bauchan, G. R., **Francoeur, C.B.**, Shelton, D. R., Lo, Y. M., & Nou, X. 2016. *Ralstonia insidiosa* serves as bridges in biofilm formation by foodborne pathogens *Listeria monocytogenes*,*Salmonella enterica*, and Enterohemorrhagic *Escherichia coli*. Food Control, 65, 14–20. [Click here for PDF](../images/Liu_2016_foodcontrol.pdf) 
 
