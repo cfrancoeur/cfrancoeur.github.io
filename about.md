@@ -13,7 +13,7 @@ During my last two years at UMD, I worked in Dr. Louisa Wu's lab studying *Droso
 For more information on what I am researching now, click [here](https://cfrancoeur.github.io/research/).
 
 ## Non-research related interests!
-In my free time, I enjoy reading, hiking, and playing ultimate frisbee. 
+In my free time, I enjoy reading, hiking, biking, and playing ultimate frisbee. 
 
 My favorite author is [Octavia Butler](http://octaviabutler.org/) - her books are truly life-changing! I can't really choose my favorite book, but here are the top three: Parable of the Sower, Parable of the Talents, and Lilith's Brood (technically three books). I recommend any book by Octavia Butler.
 
@@ -22,7 +22,7 @@ I've done sections of the Appalachian Trail and after I get my PhD, I would love
 ![](../images/group_mtelbert.JPG) 
 ![](../images/crater_lake.JPG)  
 
-I played ultimate frisbee for four years at Maryland, 3 years on [Cosmic](https://umdultimatebee.weebly.com/) and one year on Helpful Corn. I used my last year of eligibility playing on the UW-Madison women's team, [Bella Donna](https://belladonnaatropa.wordpress.com/). I've also played on several different club teams during the summers.
+I played ultimate frisbee for four years at Maryland, 3 years on [Cosmic](https://umdultimatebee.weebly.com/) and one year on Helpful Corn. I used my last year of eligibility playing on the UW-Madison women's team, [Bella Donna](https://belladonnaatropa.wordpress.com/). I've also played on several different club teams during the summers and got to go to Women's Club Nationals in San Diego in 2018 with [Heist](https://www.heistultimate.com/).
 
 It's really important to have a work-life balance in graduate school and I think it is important to emphasize mental health. While I love science, I also make sure to make time for my other interests!
 
@@ -30,4 +30,4 @@ It's really important to have a work-life balance in graduate school and I think
 
 Feel free to contact me about anything from specific research to general life!
 
-[francoeur@wisc.edu](mailto:francoeur@wisc.edu)
+[charlotte.francoeur@rutgers.edu](mailto:charlotte.francoeur@rutgers.edu)
