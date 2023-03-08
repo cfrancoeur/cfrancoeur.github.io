@@ -16,18 +16,15 @@ Weng, Y-M., **Francoeur, C.B.**, Currie, C.R., Kavanaugh, D., & Schoville, S. (2
 Liu, N. T., Bauchan, G. R., **Francoeur, C.B.**, Shelton, D. R., Lo, Y. M., & Nou, X. 2016. *Ralstonia insidiosa* serves as bridges in biofilm formation by foodborne pathogens *Listeria monocytogenes*,*Salmonella enterica*, and Enterohemorrhagic *Escherichia coli*. Food Control, 65, 14–20. [Click here for PDF](../images/Liu_2016_foodcontrol.pdf) 
 
 ## Research Interests 
-I am interested in the roles of microbes in allowing hosts to adapt to environmental changes. Scientists have observed microbes (bacteria, fungi, and viruses) making a difference in coral reef bleaching (Webster & Reusch, 2017), drought tolerance in plants (Márquez et al., 2007), and fighting [invasive species](http://www.apsnet.org/publications/apsnetfeatures/Pages/ChestnutBlightDisease.aspx). Understanding how microbes shape the boundaries of what environments their hosts can inhabit will become even more important as the conditions of Earth shift due to human influence.
+I am interested in the roles of microbes in allowing hosts to adapt to environmental changes. Scientists have observed microbes (bacteria, fungi, and viruses) making a difference in coral reef bleaching (Webster & Reusch, 2017), drought tolerance in plants (Márquez et al., 2007), and fighting [invasive species](http://www.apsnet.org/publications/apsnetfeatures/Pages/ChestnutBlightDisease.aspx). Understanding how microbes shape the boundaries of what environments their hosts can inhabit will become even more important as the conditions of Earth shift due to human influence. For the past ten years, I have mostly been focusing on microbes that associate with insects (i.e., insect-microbe symbioses). Insects are amazing for studying host-microbe associations since they occupy almost every imaginable environment, their microbiota is generally less diverse than mammals (Douglas, 2011), and you can maintain them in a small amount of laboratory space.
 
+Ants offer a fascinating platform to explore how microbes are involved in the evolutionary trajectories of their macroscopic hosts. The ~13,000 known species of ants fill a variety of niches worldwide and I'm interested in exploring the composition and role of microbes in impacting the diverse approaches to survival amongst ants. I am currently focusing on a group of ants that have convergently evolved distinctive food storage behaviors, the honeypot ants.
 
+~This section is in progress. Check back for more details and cool pictures soon.~
 
+##Works Cited
+Douglas, A. E. (2011). Lessons from studying insect symbioses. Cell Host and Microbe, 10(4), 359–367. https://doi.org/10.1016/j.chom.2011.09.001
 
+Márquez, L.M., Redman, R.S., Rodriguez, R.J., & Roossinck, M.J. (2007). A virus in a fungus in a plant: Three-way symbiosis required for thermal tolerance. Science 315:513-515.
 
-### Works Cited
-Márquez, L.M., Redman, R.S., Rodriguez, R.J., & Roossinck, M.J. 2007. A virus in a fungus in a plant: Three-way symbiosis required for thermal tolerance. Science 315:513-515.
-
-Pinto-Tomas, A. A., Anderson, M. A., Suen, G., Stevenson, D. M., Chu, F. S. T., Cleland, W. W., Weimer, P.J., & Currie, C. R. (2009). Symbiotic Nitrogen Fixation in the Fungus Gardens of Leaf-Cutter Ants. Science, 326(5956), 1120–1123. https://doi.org/10.1126/science.1173036
-
-Webster, N.S., & Reusch, T. BH. (2017) Microbial contributions to the persistence of coral reefs. The ISME Journal, 11, 2167-2174.
-
-Pictures taken by [Alexander Wild](http://www.alexanderwild.com/), Don Parsons, and Daniel Erhardt. Figure assembled by Charlotte Francoeur.
-
+Webster, N.S., & Reusch, T. BH. (2017). Microbial contributions to the persistence of coral reefs. The ISME Journal, 11, 2167-2174.
