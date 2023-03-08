@@ -22,7 +22,8 @@ Ants offer a fascinating platform to explore how microbes are involved in the ev
 
 This section is in progress. Check back for more details and cool pictures soon.
 
-##Works Cited
+## Works Cited  
+
 Douglas, A. E. (2011). Lessons from studying insect symbioses. Cell Host and Microbe, 10(4), 359–367. https://doi.org/10.1016/j.chom.2011.09.001
 
 Márquez, L.M., Redman, R.S., Rodriguez, R.J., & Roossinck, M.J. (2007). A virus in a fungus in a plant: Three-way symbiosis required for thermal tolerance. Science 315:513-515.
