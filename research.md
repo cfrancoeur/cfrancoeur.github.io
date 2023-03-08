@@ -20,7 +20,7 @@ I am interested in the roles of microbes in allowing hosts to adapt to environme
 
 Ants offer a fascinating platform to explore how microbes are involved in the evolutionary trajectories of their macroscopic hosts. The ~13,000 known species of ants fill a variety of niches worldwide and I'm interested in exploring the composition and role of microbes in impacting the diverse approaches to survival amongst ants. I am currently focusing on a group of ants that have convergently evolved distinctive food storage behaviors, the honeypot ants.
 
-~This section is in progress. Check back for more details and cool pictures soon.~
+This section is in progress. Check back for more details and cool pictures soon.
 
 ##Works Cited
 Douglas, A. E. (2011). Lessons from studying insect symbioses. Cell Host and Microbe, 10(4), 359–367. https://doi.org/10.1016/j.chom.2011.09.001
