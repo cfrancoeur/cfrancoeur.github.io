@@ -22,8 +22,8 @@ Ants offer a fascinating platform to explore how microbes are involved in the ev
 
 This section is in progress. Check back for more details soon.
 
-![](../images/honeypot_figures-04.JPG)  
-<font size = "2"/> (A) Myrmecocystus mimicus forager, photo by Dan Carroll (bugguide.net), (B) Myrmecocystus mimicus replete, photo by Marie-Pierre Meurville, (C) Myrmecocystus mexicanus repletes with different gaster colors </font>
+![](../images/honeypot_figures-04.jpg)  
+<font size = "2"> (A) Myrmecocystus mimicus forager, photo by Dan Carroll (bugguide.net), (B) Myrmecocystus mimicus replete, photo by Marie-Pierre Meurville, (C) Myrmecocystus mexicanus repletes with different gaster colors </font>
 
 ### Works Cited  
 
