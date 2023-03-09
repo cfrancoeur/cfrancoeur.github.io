@@ -11,7 +11,7 @@ Ants offer a fascinating platform to explore how microbes are involved in the ev
 <font size = "2"> Honeypot ants are characterized by a specialized caste that act as living food storage, known as repletes. (A) Myrmecocystus mimicus forager (note the compact gaster), photo by Dan Carroll (bugguide.net), (B) Myrmecocystus mimicus replete (note the swollen gaster), photo by Marie-Pierre Meurville, (C) Myrmecocystus mexicanus repletes with different gaster colors. </font>
 
 ![](../images/aims.png)  
-<font size = "2"> Summary of the overall aims of the Khadempour Lab's honeypot ant microbiome work. I am largely focusing on investigating the microbiome of *Myrmecocystus* honeypot ants, comparing the taxonomic composition via amplicon sequencing at multiple scales (Aim 1) and assessing the role of the microbiome in mediating their diet (Aim 3). </font>
+</font size = "2"> Summary of the overall aims of the Khadempour Lab's honeypot ant microbiome work. I am largely focusing on investigating the microbiome of *Myrmecocystus* honeypot ants, comparing the taxonomic composition via amplicon sequencing at multiple scales (Aim 1) and assessing the role of the microbiome in mediating their diet (Aim 3). </font>
 
 ### Works Cited  
 
