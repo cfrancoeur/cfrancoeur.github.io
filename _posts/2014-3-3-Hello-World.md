@@ -7,3 +7,5 @@ Hello! I am a postdoc in the [Khadempour Lab](https://www.khadlab.com/) at Rutge
 ![](../images/honeypot_colony.jpg)  
 <font size = "2"> Photo by Lily Khadempour </font>
 
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
