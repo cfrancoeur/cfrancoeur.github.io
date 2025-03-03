@@ -3,7 +3,9 @@ layout: page
 title: Publications
 permalink: /publications/  
 ---
-Gotting, K., May, D.S., Sosa-Calvo, J., Khadempour, L., **Francoeur, C.B.**, Berasategui, A., Thairu, M.W., Sandstrom, S., Carlson, C.M., Chevrette, M., Pupo, M.T., Bugni, T.S., Schultz, T.R., Johnston, J.S., Gerardo, N.M., & Currie, C.R. (2022). Genomic diversification of the specialized parasite of the fungus-growing ant symbiosis. PNAS. [[DOI: 10.1073/pnas.2213096119]](https://www.pnas.org/doi/10.1073/pnas.2213096119))
+Harrison, R.L., **Francoeur, C.B.**, & Rowley, D.L. (2024). An alphabaculovirus from the zebra caterpillar, *Melanchra picta* Harris, is an isolate of species *Alphabaculovirus maconfiguratae*. Journal of Invertebrate Pathology. [[DOI: 10.1016/j.jip.2024.108220]](https://www.sciencedirect.com/science/article/pii/S0022201124001630)  
+
+Gotting, K., May, D.S., Sosa-Calvo, J., Khadempour, L., **Francoeur, C.B.**, Berasategui, A., Thairu, M.W., Sandstrom, S., Carlson, C.M., Chevrette, M., Pupo, M.T., Bugni, T.S., Schultz, T.R., Johnston, J.S., Gerardo, N.M., & Currie, C.R. (2022). Genomic diversification of the specialized parasite of the fungus-growing ant symbiosis. PNAS. [[DOI: 10.1073/pnas.2213096119]](https://www.pnas.org/doi/10.1073/pnas.2213096119)
 
 **Francoeur, C.B.**#, May, D.S.#, Thairu, M., Hoang, D.Q., Panthofer, O., Bugni, T.S., Pupo, M.T., Clardy, J., Pinto-Tomás, A.A., & Currie, C.R. (2021). *Burkholderia* from fungus gardens of fungus-growing ants produces antifungals that inhibit the specialized parasite *Escovopsis*. Applied and Environmental Microbiology. [[DOI: 10.1128/AEM.00178-21]](https://doi.org/10.1128/AEM.00178-21)  
 #indicates equal contributors  
