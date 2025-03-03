@@ -21,7 +21,7 @@ Currently, I am a postdoc in the Khadempour Lab studying the microbiome of honey
 ## Non-research related interests!
 In my free time, I enjoy reading (especially scifi/fantasy), hiking, biking, eating, and playing video games.
 
-My favorite author is [Octavia Butler](http://octaviabutler.org/). I can't really choose my favorite book, but here are the top three: Parable of the Sower, Parable of the Talents, and Lilith's Brood (technically three books). I recommend any book by Octavia Butler.
+My favorite authors are [Octavia Butler](http://octaviabutler.org/) and Ursula K. LeGuin. I really recommend any book by either of these authors, but I especially enjoyed Octavia Butler's *Parable of the Sower* and Ursula LeGuin's *The Left Hand of Darkness*.
 
 One of my life goals is to visit all the National Parks in the United States. So far my favorite one has to be Crater Lake, OR!
 
@@ -33,5 +33,5 @@ It's really important to have a work-life balance. While I love science, I also 
 
 Feel free to contact me about anything from specific research to general life!
 
-[charlotte.francoeur@rutgers.edu](mailto:charlotte.francoeur@rutgers.edu)
+[charlotte.francoeur12@gmail.com](mailto:charlotte.francoeur12@gmail.com)
 
